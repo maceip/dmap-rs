@@ -1,0 +1,12 @@
+[package]
+name = "dmap-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cid = "0.11.1"
+multihash = "0.19.1"
+sha3= "0.10.8"
+ebnf = "0.1.4"
+ethers = "2.0.14"
+tokio= "1.38.0"
